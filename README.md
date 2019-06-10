@@ -14,3 +14,4 @@ Now that you have been rich, it’s time to join the 99%. This app will proudly 
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+# I-Am-Poor
